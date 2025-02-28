@@ -1,0 +1,92 @@
+.image {
+  width:50%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  border: double;
+  border-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+
+#img-div {
+  background-color: black;
+  border: double;
+  border-color: white;
+  height: 630px;
+}
+
+body {
+  background-color: #b2b2b2;
+}
+
+.header {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+}
+
+.headerp {
+  text-align: center;
+  font-family: monospace;
+  color: red;
+  text-decoration: underline;
+}
+
+.img-caption {
+  color: white;
+  text-align: center;
+}
+
+ul {
+  text-align:  center;  
+  padding: 0;
+  display: block;
+
+}
+
+li {
+  font-family: cursive;
+}
+
+.family-early {
+  padding-top: 40px;
+  display: inline
+}
+
+.schema {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+}
+
+.birth {
+  padding-bottom: 20px;
+}
+
+.show-la {
+  padding-bottom: 20px;
+}
+
+.gbctime {
+  padding-bottom: 20px;
+}
+
+.gpa {
+  text-align: center;
+  font-style: monospace;
+}
+
+.wiki {
+  text-align: center;
+  background-color: white;
+  border-color: red;
+  border: double;
+}
+
+.section-img > image {
+  justify-content: center;
+  text-align: center;
+}
